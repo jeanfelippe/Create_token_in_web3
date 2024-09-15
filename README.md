@@ -22,6 +22,7 @@ https://cloud.google.com/application/web3/faucet/ethereum/sepolia
 -Inseri o endereço da minha wallet em balances
 
 
+![image](https://github.com/user-attachments/assets/481ee8e7-cc1e-4b87-88b6-3af8e41ba4e3)
 
 
 
@@ -30,14 +31,18 @@ https://cloud.google.com/application/web3/faucet/ethereum/sepolia
 
 
 
+![image](https://github.com/user-attachments/assets/35127210-d3b9-4072-9ee9-53db3a82f45c)
 
 
 
 
+![image](https://github.com/user-attachments/assets/a7fb8be5-4331-4a44-abf0-1bb14450433f)
 
 -
 
 -Token FJT Importado para a carteira com sucesso
+![image](https://github.com/user-attachments/assets/2a9bf70d-1161-4b22-ac13-5fa96b35368d)
+
 
 
 
